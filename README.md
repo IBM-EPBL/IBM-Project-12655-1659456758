@@ -11,3 +11,5 @@ According to the estimation by the Total Delay Impact Study, the total cost of a
 and the airline industry in 2007 was $32.9 billion in the US, resulting in a $4 billion reduction in GDP. Therefore, 
 predicting flight delays can improve airline operations and passenger satisfaction, which will positively impact the 
 economy. Thus, building the right system using a suitable model is of great importance. 
+
+Web Application link : https://flightdelaypredweb.herokuapp.com/
