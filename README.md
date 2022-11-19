@@ -1,6 +1,10 @@
 # IBM-Project-12655-1659456758
 Developing a Flight Delay Prediction Model using Machine Learning
 
+Web Application link : https://flight-delay-prediction.onrender.com
+
+Demo video link : https://youtu.be/oqU7zv9V0Gk
+
 The airline industry has been the backbone of transportation ever since the 1950s. It is important to ensure that the 
 aviation industry has safety and punctuality at its peak, as many VIPS, business personalities, and sports teams use 
 aircraft as their primary transport for important events. Although the industry’s safety and customer service record 
@@ -12,4 +16,3 @@ and the airline industry in 2007 was $32.9 billion in the US, resulting in a $4 
 predicting flight delays can improve airline operations and passenger satisfaction, which will positively impact the 
 economy. Thus, building the right system using a suitable model is of great importance. 
 
-Web Application link : https://flightdelaypredweb.herokuapp.com/
