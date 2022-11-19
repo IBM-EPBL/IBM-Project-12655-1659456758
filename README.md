@@ -13,4 +13,5 @@ predicting flight delays can improve airline operations and passenger satisfacti
 economy. Thus, building the right system using a suitable model is of great importance. 
 
 Web Application link : https://flightdelaypredweb.herokuapp.com/
+
 Demo video link : https://youtu.be/oqU7zv9V0Gk
